@@ -44,5 +44,5 @@ fofa有自己的反爬机制，并且规定每天只能搜索500次。
 
 如果你觉得好用，请给作者买杯咖啡
 
-![](demo/weixin.png)
+![](demo/weixinz.png)
 
