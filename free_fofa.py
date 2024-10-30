@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/python
 # @Time    : 2021-03-20
-# @Author  : 409162075
+# @Author  :  
 # @FileName: free_fofa.py
 # version: 1.0.0
 
